@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1779645931,
+      "filename": "lineage-23.2-20260524-UNOFFICIAL-Elvettorato-lynx.zip",
+      "id": "89ae1797dfd263db404142f1299377c3",
+      "romtype": "unofficial",
+      "size": 1431579955,
+      "url": "https://github.com/Elvettorato/lineage_ota/releases/download/lynx260524/lineage-23.2-20260524-UNOFFICIAL-Elvettorato-lynx.zip",
+      "version": "23.2"
+    }
+  ]
+}
