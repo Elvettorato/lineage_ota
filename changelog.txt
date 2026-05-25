@@ -1,0 +1,17 @@
+Lineage OS 23.2 (Android 16 QPR2)
+Maintainer: Elvettorato
+
+----------------------------
+|        5/25/2026         |
+----------------------------
+--- Lynx (Google Pixel 7a) ---
+- Fix OTA Changelog not being seen
+
+--- Bluejay (Google Pixel 6a) ---
+- Work In Progress
+
+--- Rodin (Poco X7 Pro) ---
+- Work In Progress
+
+--- Redwood (Poco X5 Pro 5G) ---
+- Work In Progress
