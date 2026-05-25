@@ -1,0 +1,7 @@
+Google Pixel 7a | Lineage OS 23.2 (Android 16 QPR2)
+Maintainer: Elvettorato
+
+----------------------------
+|        5/25/2026         |
+----------------------------
+-Initial release
