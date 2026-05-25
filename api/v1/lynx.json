@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1779718100,
+      "datetime": 1779728086,
       "filename": "signed-ota_update.zip",
-      "id": "4c25ff9565ba8b5f99e3df6d06916066",
+      "id": "bcb9a54674ffa95ea3faeb3f2c36a68c",
       "romtype": "unofficial",
-      "size": 1431356709,
-      "url": "https://github.com/Elvettorato/lineage_ota/releases/download/lynx20260525_3/signed-ota_update.zip",
+      "size": 1431358240,
+      "url": "https://github.com/Elvettorato/lineage_ota/releases/download/lynx20260525_4/signed-ota_update.zip",
       "version": "23.2"
     }
   ]
