@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1779734194,
+      "filename": "signed-ota_update.zip",
+      "id": "54f563aefc88b3a2b9d7a0ecab1e150f",
+      "romtype": "unofficial",
+      "size": 1779732590,
+      "url": "https://github.com/Elvettorato/lineage_ota/releases/download/bluejay25052026/signed-ota_update.zip",
+      "version": "23.2"
+    }
+  ]
+}
