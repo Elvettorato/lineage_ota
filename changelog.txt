@@ -8,10 +8,10 @@ Maintainer: Elvettorato
 - Fix OTA Changelog not being seen
 
 --- Bluejay (Google Pixel 6a) ---
-- Work In Progress
+- Initial Release
 
 --- Rodin (Poco X7 Pro) ---
 - Work In Progress
 
 --- Redwood (Poco X5 Pro 5G) ---
-- Work In Progress
+- Initial Release
