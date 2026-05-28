@@ -14,4 +14,4 @@ Maintainer: Elvettorato
 - Work In Progress
 
 --- Redwood (Poco X5 Pro 5G) ---
-- Initial Release
+- Remove MIUI Camera (It didn't work)
