@@ -7,11 +7,13 @@ Maintainer: Elvettorato
 --- Lynx (Google Pixel 7a) ---
 - Moved the "Clear all" app button near the screenshot button
 - All latest fixes and updates from LineageOS Team
+- Add RAM Usage on Multitask
 
 --- Bluejay (Google Pixel 6a) ---
 - Moved the "Clear all" app button near the screenshot button
 - All latest fixes and updates from LineageOS Team
 - Fixed OTA Update always being showed
+- Add RAM Usage on Multitask
 
 --- Rodin (Poco X7 Pro) ---
 - Work In Progress
@@ -19,3 +21,4 @@ Maintainer: Elvettorato
 --- Redwood (Poco X5 Pro 5G) ---
 - Moved the "Clear all" app button near the screenshot button
 - All latest fixes and updates from LineageOS Team
+- Add RAM Usage on Multitask
