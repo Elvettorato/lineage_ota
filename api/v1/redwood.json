@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1779996198,
-      "filename": "signed-ota_update.zip",
-      "id": "8a65ba35efc539691816528574fad778",
+      "datetime": 1780048130,
+      "filename": "signed-ota_update_redwood.zip",
+      "id": "4eb8a0e7f8a4630774687b5772229be7",
       "romtype": "unofficial",
-      "size": 1468106722,
-      "url": "https://github.com/Elvettorato/lineage_ota/releases/download/redwoodhotfix/signed-ota_update.zip",
+      "size": 1468113582,
+      "url": "https://github.com/Elvettorato/lineage_ota/releases/download/update29052026/signed-ota_update_redwood.zip",
       "version": "23.2"
     }
   ]
