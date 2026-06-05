@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1780596661,
+      "datetime": 1780650331,
       "filename": "signed-ota_update_lynx.zip",
-      "id": "348b0604f9dc5d23a5605ae4bb81c8a2",
+      "id": "b5a50f23bb48579a51bcb6f0f01e604a",
       "romtype": "unofficial",
-      "size": 1439232773,
+      "size": 1432641734,
       "url": "https://github.com/Elvettorato/lineage_ota/releases/download/update642026/signed-ota_update_lynx.zip",
       "version": "23.2"
     }
