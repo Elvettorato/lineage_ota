@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1780900000,
+      "datetime": 1780984580,
       "filename": "signed-ota_update_rodin.zip",
-      "id": "b876ce1de1d90a9175300026ff69b6a3",
+      "id": "365ba64cb3bfab3556b1fa44580affae",
       "romtype": "unofficial",
-      "size": 2157609363,
+      "size": 2157609219,
       "url": "sourceforge.net/projects/elvettorato-customroms/files/LineageOS/rodin/signed-ota_update_rodin.zip/download",
       "version": "23.2"
     }
