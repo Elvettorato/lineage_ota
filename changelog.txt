@@ -15,6 +15,7 @@ Maintainer: Elvettorato
 - Updated XiaomiParts
 - Fixed bluetooth problems
 - Using stock DolbyAtmos
+- Fix 5GHz hotspot (Only works on WPA2)
 
 --- Redwood (Poco X5 Pro 5G) ---
 - Work In Progress
