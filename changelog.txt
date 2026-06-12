@@ -5,10 +5,12 @@ Maintainer: Elvettorato
 |        June 2026         |
 ----------------------------
 --- Lynx (Google Pixel 7a) ---
-- Work In Progress
+- June Patch
+- Fix a problem where the used RAM percentage wouldn't show
 
 --- Bluejay (Google Pixel 6a) ---
-- Work In Progress
+- June Patch
+- Fix a problem where the used RAM percentage wouldn't show
 
 --- Rodin (Poco X7 Pro) ---
 - Better thermals and performance
@@ -16,6 +18,7 @@ Maintainer: Elvettorato
 - Fixed bluetooth problems
 - Using stock DolbyAtmos
 - Fix 5GHz hotspot (Only works on WPA2)
+- June Patch
 
 --- Redwood (Poco X5 Pro 5G) ---
-- Work In Progress
+- June Patch
