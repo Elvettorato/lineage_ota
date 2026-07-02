@@ -4,6 +4,9 @@ Maintainer: Elvettorato
 ----------------------------
 |        June 2026         |
 ----------------------------
+--- Akita (Google Pixel 8a) ---
+- Coming soon
+
 --- Lynx (Google Pixel 7a) ---
 - June Patch
 - Fix a problem where the used RAM percentage wouldn't show
