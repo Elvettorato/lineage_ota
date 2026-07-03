@@ -1,13 +1,18 @@
-{
-  "response": [
-    {
-      "datetime": 1783069677,
-      "filename": "signed-ota_update_akita.zip",
-      "id": "afeebaf890848f713fd87bd39852b482",
-      "romtype": "unofficial",
-      "size": 1369984521,
-      "url": "https://github.com/Elvettorato/lineage_ota/releases/download/newupdatertest/signed-ota_update_akita.zip",
-      "version": "23.2"
-    }
-  ]
-}
+[
+  {
+    "datetime": 1783069677,
+    "files": [
+      {
+        "filename": "signed-ota_update_akita.zip",
+        "os_patch_level": "2026-06-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "ota_property_files": "payload_metadata.bin:1369981086:137760,payload.bin:1369981086:1369976338,payload_properties.txt:4701:156",
+        "sha256": "afeebaf890848f713fd87bd39852b482",
+        "size": 1369984521,
+        "url": "https://github.com/Elvettorato/lineage_ota/releases/download/newupdatertest/signed-ota_update_akita.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2"
+  }
+]
