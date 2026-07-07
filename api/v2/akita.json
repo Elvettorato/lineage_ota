@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1783069677,
+    "datetime": 1783456779,
     "files": [
       {
         "filename": "signed-ota_update_akita.zip",
-        "os_patch_level": "2026-06-01",
+        "os_patch_level": "2026-07-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:4748:137760,payload.bin:4748:1369976338,payload_properties.txt:1369981144:156",
-        "sha256": "afeebaf890848f713fd87bd39852b482",
-        "size": 1369984521,
-        "url": "https://github.com/Elvettorato/lineage_ota/releases/download/newupdatertest/signed-ota_update_akita.zip"
+        "ota_property_files": "payload_metadata.bin:4748:137816,payload.bin:4748:1371059582,payload_properties.txt:1371064388:156",
+        "sha256": "f2c9773c7f2a4fe8384ed389f912719d2d768494606c0b8d1ffd8ba61fdf0ab4",
+        "size": 1371067765,
+        "url": "https://github.com/Elvettorato/lineage_ota/releases/download/july2026/signed-ota_update_akita.zip"
       }
     ],
     "type": "unofficial",
