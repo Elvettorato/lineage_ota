@@ -1,27 +1,16 @@
 Lineage OS 23.2 (Android 16 QPR2)
-Maintainer: Elvettorato
 
 ----------------------------
-|        June 2026         |
+|        July 2026         |
 ----------------------------
 --- Akita (Google Pixel 8a) ---
-- Coming soon
+- July patch
 
 --- Lynx (Google Pixel 7a) ---
-- June Patch
-- Fix a problem where the used RAM percentage wouldn't show
+- July patch
 
 --- Bluejay (Google Pixel 6a) ---
-- June Patch
-- Fix a problem where the used RAM percentage wouldn't show
+- July patch
 
 --- Rodin (Poco X7 Pro) ---
-- Better thermals and performance
-- Updated XiaomiParts
-- Fixed bluetooth problems
-- Using stock DolbyAtmos
-- Fix 5GHz hotspot (Only works on WPA2)
-- June Patch
-
---- Redwood (Poco X5 Pro 5G) ---
-- June Patch
+- Coming soon
