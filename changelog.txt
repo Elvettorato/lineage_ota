@@ -13,4 +13,6 @@ Lineage OS 23.2 (Android 16 QPR2)
 - July patch
 
 --- Rodin (Poco X7 Pro) ---
-- Coming soon
+- New Device Tree based on OS3.0.300.0 Global
+- New optimizations
+- Better SEPolicy
