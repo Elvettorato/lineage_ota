@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1783944156,
+    "files": [
+      {
+        "filename": "signed-ota_update_rodin.zip",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:5299:154906,payload.bin:5299:2277342094,payload_properties.txt:2277347451:156",
+        "sha256": "f61f50ce2c21aa528e8ff45637fadddb9e9783f1ac6eb7c1e90bec94601a5f08",
+        "size": 2277350828,
+        "url": "https://download1325.mediafire.com/s0fqswvl7hug0BlNPxzIR-c5_wcvKTHjgDHD-lXDi_u4li0CzpcU9UtXrltAbSM2dOCnnYCpvOyyeO89lsQPDzwdWmrCO5VQpN6NOoAS9s9PWk1BoZzmZqqPp7_ZIO3H1NLe-06heYbCyTjOALep2j7kZ_LMiidnd3iZYrdxew/1psnlc08645jhj7/signed-ota_update_rodin.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2"
+  }
+]
